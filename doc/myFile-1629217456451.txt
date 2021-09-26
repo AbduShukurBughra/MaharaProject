@@ -1,0 +1,11 @@
+  This test combines
+logical reasoning questions with a
+question about algorithms and another
+about SQL. It allows you to evaluate
+both the current programming skills of
+the candidate, as well as their
+potential, given their capacity for
+logical reasoning. Since this
+programming test uses pseudo-code it
+does not have a bias related to the
+knowledge of a specific language.
